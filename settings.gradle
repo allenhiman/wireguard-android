@@ -1,5 +1,5 @@
 pluginManagement {
-    def agpVersion = "4.2.2"
+    def agpVersion = "7.0.0-rc01"
     def kotlinVersion = "1.5.21"
     repositories {
         gradlePluginPortal()
